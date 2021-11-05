@@ -147,6 +147,6 @@ body {
 	margin-right: 10px;
 }
 
-#question-image img {
+#question-image img, #final-image img {
     	max-width: 100%;	
 }
