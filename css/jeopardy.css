@@ -149,7 +149,5 @@ body {
 
 #question-image img, #final-image img {
     	max-width: 100%;
-	
-	/* TODO: Find a better way to do the following... */
 	max-height: 60vh;
 }
